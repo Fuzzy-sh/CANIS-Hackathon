@@ -6,7 +6,7 @@
 
 
 # CANIS-Hackathon
-
+# Title: The Power of NLP and Data Visualization for Data Analysis
 ## What inspired me:
 
 The explosion of data in recent years has made it increasingly important to extract useful information and insights from large volumes of text data. As a result, natural language processing (NLP) techniques have become a crucial tool for data analysis, enabling researchers to understand patterns, trends, and relationships hidden within text data.
