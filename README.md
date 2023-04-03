@@ -1,6 +1,8 @@
 
 <a href="https://www.linkedin.com/in/fuzzy-shahidi"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-blue.svg" alt="DOI"></a>
 
+<a href="https://youtu.be/WkjBGYs2T2Q"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-red.svg" alt="DOI"></a>
+
 
 
 # CANIS-Hackathon
