@@ -35,3 +35,6 @@ Another challenge was selecting the most appropriate data visualization techniqu
 
 Overall, the project required a combination of NLP and data visualization skills, as well as a deep understanding of the specific domain being analyzed. However, I found the project to be extremely rewarding, as it enabled me to gain valuable insights into the power of NLP and data visualization for data analysis.
 
+
+![Picture1](https://user-images.githubusercontent.com/38839459/229404697-fdc1e6de-753a-4ec9-bf2b-951e555cfdc3.png)
+
