@@ -38,3 +38,9 @@ Overall, the project required a combination of NLP and data visualization skills
 
 ![Picture1](https://user-images.githubusercontent.com/38839459/229404697-fdc1e6de-753a-4ec9-bf2b-951e555cfdc3.png)
 
+----------------------------------------------------------------------------------------------------------------------
+
+![summary](https://user-images.githubusercontent.com/38839459/229404785-b51f5955-559d-45ad-8f94-818752a80a3c.png)
+
+
+----------------------------------------------------------------------------------------------------------------------
